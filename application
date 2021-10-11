@@ -2,9 +2,12 @@
   "admob": true,
   "intersticio": "ca-app-pub-2687233810319887/4243348489",
   "banner": "ca-app-pub-2687233810319887/9412057567",
-  "versão": "3.7",
+  "versão": "3.8",
   "url": "https://play.google.com/store/apps/details?id\u003dcom.vision.tela2",
-  "msg": "Novas funções adicionadas, atualize agora mesmo.",
+  "msg": "Novidades: 
+•Canais ao vivo adicionados
+•Tema escuro aprimorado
+•Correções de bugs",
   "obrigatorio": false,
   "unity": true
 }
