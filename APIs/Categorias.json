@@ -1,0 +1,136 @@
+{
+  "category": [
+    {
+      "name": "Ação",
+      "slug": "acao"
+    },
+    {
+      "name": "Action \u0026 Adventure",
+      "slug": "action-adventure"
+    },
+    {
+      "name": "Animação",
+      "slug": "animacao"
+    },
+    {
+      "name": "Animes",
+      "slug": "animes"
+    },
+    {
+      "name": "Aventura",
+      "slug": "aventura"
+    },
+    {
+      "name": "Cinema TV",
+      "slug": "cinema-tv"
+    },
+    {
+      "name": "Comédia",
+      "slug": "comedia"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Documentário",
+      "slug": "documentario"
+    },
+    {
+      "name": "Dorama",
+      "slug": "dorama"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Esporte",
+      "slug": "esporte"
+    },
+    {
+      "name": "Família",
+      "slug": "familia"
+    },
+    {
+      "name": "FanFilm",
+      "slug": "fanfilm"
+    },
+    {
+      "name": "Fantasia",
+      "slug": "fantasia"
+    },
+    {
+      "name": "Faroeste",
+      "slug": "faroeste"
+    },
+    {
+      "name": "Ficção científica",
+      "slug": "ficcao-cientifica"
+    },
+    {
+      "name": "Guerra",
+      "slug": "guerra"
+    },
+    {
+      "name": "História",
+      "slug": "historia"
+    },
+    {
+      "name": "Kids",
+      "slug": "kids"
+    },
+    {
+      "name": "Lançamento",
+      "slug": "lancamento"
+    },
+    {
+      "name": "Marvel e DC",
+      "slug": "marvel-e-dc"
+    },
+    {
+      "name": "Mistério",
+      "slug": "misterio"
+    },
+    {
+      "name": "Música",
+      "slug": "musica"
+    },
+    {
+      "name": "Reality",
+      "slug": "reality"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Sci-Fi \u0026 Fantasy",
+      "slug": "sci-fi-fantasy"
+    },
+    {
+      "name": "Soap",
+      "slug": "soap"
+    },
+    {
+      "name": "Suspense",
+      "slug": "suspense"
+    },
+    {
+      "name": "Talk",
+      "slug": "talk"
+    },
+    {
+      "name": "Terror",
+      "slug": "terror"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War \u0026 Politics",
+      "slug": "war-politics"
+    }
+  ]
+}
