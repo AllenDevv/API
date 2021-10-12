@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "type": "tvshows",
+      "title": "A Bizarra Confeitaria de Christine McConnell",
+      "permalink": "https://thefilmes.tv/series/81284-a-bizarra-confeitaria-de-christine-mcconnell/",
+      "category": "Comédia, Reality, Talk",
+      "imdb": "tt8773080",
+      "poster": "https://image.tmdb.org/t/p/w300/A8yLoz3Mh8AjUZ2FgCYw3FKlevL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/eXHfjm2bz15XJNlNg6JZ3Rmjlxu.jpg",
+      "year": "2018",
+      "imdbRating": "7.3",
+      "runtime": "30",
+      "episode": "6"
+    },
+    {
+      "type": "tvshows",
+      "title": "Doenças do Século 21",
+      "permalink": "https://thefilmes.tv/series/81521-doencas-do-seculo-21/",
+      "category": "Documentário, Mistério, Reality, Talk",
+      "imdb": "tt8792570",
+      "poster": "https://image.tmdb.org/t/p/w300/wQL5YJq0348OxRgO14YxrlOy7dT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qIYieR9t1CmEaBC2mNo0oYStkRE.jpg",
+      "year": "2018",
+      "imdbRating": "4.8",
+      "runtime": "45",
+      "episode": "7"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "type": "tvshows",
+      "title": "Abarenbou Rikishi!! Matsutarou",
+      "permalink": "https://thefilmes.tv/series/60829-abarenbou-rikishi-matsutarou/",
+      "category": "Animação, Animes, Esporte",
+      "imdb": "tt3644244",
+      "poster": "https://image.tmdb.org/t/p/w300/ooB6hGsWN03bwfCQJgnO2QTdP5t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ooB6hGsWN03bwfCQJgnO2QTdP5t.jpg",
+      "year": "2014",
+      "imdbRating": "6",
+      "runtime": "25",
+      "episode": "23"
+    }
+  ]
+}
