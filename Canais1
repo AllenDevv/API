@@ -6,13 +6,13 @@
       "url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8"
     },
     {
-      "nome": "Globo",
+      "nome": "GLOBO",
       "foto": "https://imgur.com/5RQ1PxL.png",
       "url": "http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8"
     },
     {
-      "nome": "Record TV",
-      "foto": "https://imgur.com/ZLgQJeY.png",
+      "nome": "RECORD TV",
+      "foto": "https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",
       "url": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8"
     },
     {
@@ -20,3 +20,15 @@
       "foto": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
       "url": "https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8"
     },
+    {
+      "nome": "TV BAND PA",
+      "foto": "https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8"
+    },
+    {
+      "nome": "SBT PI",
+      "foto": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
+      "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8"
+    }
+  ]
+}
