@@ -3,7 +3,9 @@
     {
       "nome": "TV CULTURA",
       "foto": "https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-1-768x666.png",
-      "url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8"
+      "url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8",
+      "sobre": "TV Cultura (também conhecida como Rede Cultura) é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo. ... No dia 30 de janeiro de 2015, o instituto de pesquisa britânico Populus divulgou que a TV Cultura é o segundo canal de maior qualidade do mundo, atrás apenas da BBC One.",
+      "ano": "1960"
     },
     {
       "nome": "GLOBO",
