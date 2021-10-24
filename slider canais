@@ -1,0 +1,46 @@
+{
+  "canais": [
+    {
+      "nome": "TV CULTURA",
+      "foto": "https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-1-768x666.png",
+      "url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8",
+      "sobre": "TV Cultura (também conhecida como Rede Cultura) é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo. ... No dia 30 de janeiro de 2015, o instituto de pesquisa britânico Populus divulgou que a TV Cultura é o segundo canal de maior qualidade do mundo, atrás apenas da BBC One.",
+      "ano": "1960"
+    },
+    {
+      "nome": "GLOBO",
+      "foto": "https://imgur.com/5RQ1PxL.png",
+      "url": "http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8",
+      "sobre" "TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.",
+      "ano" "1965"
+    },
+    {
+      "nome": "RECORD TV",
+      "foto": "https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",
+      "url": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8",
+      "sobre" "Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 2012. Em 2010, foi eleita pelo mercado publicitário como a quinta maior emissora do mundo em faturamento e a oitava maior rede em estrutura física.",
+      "ano" "1953"
+    },
+    {
+      "nome": "SBT",
+      "foto": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
+      "url": "https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8",
+      "sobre" "Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.",
+      "ano" "1981"
+    },
+    {
+      "nome": "TV BAND PA",
+      "foto": "https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8",
+      "sobre" "Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.",
+      "ano" "1967"
+    },
+    {
+      "nome": "SBT PI",
+      "foto": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
+      "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8",
+      "sobre" "Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.",
+      "ano" "1981"
+    }
+  ]
+}
